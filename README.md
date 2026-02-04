@@ -13,7 +13,6 @@ This repository contains the coursework and practical components for the *Introd
 
 The project focuses on designing an **end-to-end IoT-based Smart Building Automation & Energy Management system**, aimed at optimizing energy consumption and automating building environments using real-time data and smart control mechanisms.
 
-> ⚠️ *This repository currently serves as a project skeleton. System components and technologies will be finalized during development.*
 
 ---
 
@@ -26,10 +25,7 @@ The project focuses on designing an **end-to-end IoT-based Smart Building Automa
 ---
 
 ## Technologies (To Be Finalized)
-- Microcontrollers (e.g., Arduino / ESP32)
-- Sensors (environmental, energy-related)
-- Communication protocols (to be decided)
-- IoT platforms / dashboards (to be decided)
+
 
 ---
 
@@ -39,12 +35,11 @@ The project focuses on designing an **end-to-end IoT-based Smart Building Automa
 ---
 
 ## Group Members
-- **Dev** (Leader)
+- Thisara Gnanasena (Leader)
 - Sinha Bandara  
 - Senuja Ekanayaka  
 - Geekiyanage Fernando  
-- Peduru Fernando  
-- Thisara Gnanasena  
+- Peduru Fernando   
 - Gunawardana Gunawardana  
 - Konara Kulathunga  
 - Warunika Kumarage  
