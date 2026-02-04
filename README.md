@@ -38,7 +38,8 @@ The project focuses on designing an **end-to-end IoT-based Smart Building Automa
 - Thisara Gnanasena (Leader)
 - Sinha Bandara  
 - Senuja Ekanayaka  
-- Geekiyanage Fernando  
+- Geekiyanage Fernando
+- Geekiyanage Fernando
 - Peduru Fernando   
 - Gunawardana Gunawardana  
 - Konara Kulathunga  
